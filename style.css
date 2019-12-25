@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    color: maroon;
+  }
+  
+  #survey-form {
+    width: 900px;
+    margin: 0 auto;
+    background-color: skyblue;
+    color: maroon;
+  }
+  
+  .row-tab {
+    display: block;
+    padding-top: 20px;
+  }
+  
+  .label-biryani {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+  }
+  
+  .input-biryani {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+  }
+  
+  .select-input {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+  }
+  
+  .label-select {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+  }
+  
+  .labels-radio {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+    vertical-align: top;
+  }
+  
+  .input-radio {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+  }
+  
+  .checkbox-labels {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+    vertical-align: top;
+  }
+  
+  .checkbox-input {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+  }
